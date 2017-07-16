@@ -1,0 +1,29 @@
+{
+	"name": "MediaPicker",
+	"version": "0.0.1",
+  "description": "Select  video or music from library",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evenmatrix/react-native-mediapicker.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "video",
+    "picker",
+    "music"
+  ],
+  "author": "Onyemaechi Okafor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evenmatrix/react-native-mediapicker.gitissues"
+  },
+  "homepage": "https://github.com/evenmatrix/react-native-mediapicker.git#readme",
+  "peerDependencies": {
+    "react-native": ">=0.46.0"
+  }
+}

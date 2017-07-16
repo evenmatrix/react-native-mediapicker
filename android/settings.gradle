@@ -1,0 +1,3 @@
+rootProject.name = 'MediaPicker'
+
+include ':app'
