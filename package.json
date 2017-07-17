@@ -1,5 +1,5 @@
 {
-	"name": "MediaPicker",
+	"name": "react-native-mediapicker",
 	"version": "0.0.1",
   "description": "Select  video or music from library",
   "scripts": {
